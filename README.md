@@ -6,6 +6,7 @@ The Synthetic Minority Over-Sampling Technique (SMOTE) is one of the most well k
 ## Diagram of the proposed method:
 
 
+
 ![Diagram](https://user-images.githubusercontent.com/59253242/195998172-760db8cd-a7b0-40b0-b802-b50f51db4967.jpg)
 
 
