@@ -8,7 +8,7 @@ The Synthetic Minority Over-Sampling Technique (SMOTE) is one of the most well k
 
 P. Soltanzadeh and M. Hashemzadeh, "RCSMOTE: Range-Controlled synthetic minority over-sampling technique for handling the class imbalance problem," Information Sciences, vol. 542, pp. 92-111, 2021/01/04/ 2021, doi: https://doi.org/10.1016/j.ins.2020.07.014.
 
-# Condition and terms to use any sources of this project (Codes, Datasets, etc.):
+## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
 
