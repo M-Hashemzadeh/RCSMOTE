@@ -10,6 +10,6 @@ P. Soltanzadeh and M. Hashemzadeh, "RCSMOTE: Range-Controlled synthetic minority
 
 P. Soltanzadeh and M. Hashemzadeh, "RCSMOTE: Range-Controlled synthetic minority over-sampling technique for handling the class imbalance problem," Information Sciences, vol. 542, pp. 92-111, 2021/01/04/ 2021, doi: https://doi.org/10.1016/j.ins.2020.07.014.
 
-2)Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
+2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
 Authors’ Emails: hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
