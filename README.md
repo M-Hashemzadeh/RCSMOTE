@@ -1,5 +1,7 @@
 # RCSMOTE: Range-Controlled Synthetic Minority Over-sampling Technique for handling the class imbalance problem
 
-The Source_Code.rar file includes the MATLAB implementation of the CGFFCM algorithm presented in:
+The ImplementationSourceCodes.zip file includes the MATLAB implementation of the RCSMOTE algorithm presented in:
 
-A. G. Oskouei, M. Hashemzadeh, B. Asheghi, and M.-A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, p. 108005, 2021/10/26/ 2021, doi: https://doi.org/10.1016/j.asoc.2021.108005.
+P. Soltanzadeh and M. Hashemzadeh, "RCSMOTE: Range-Controlled synthetic minority over-sampling technique for handling the class imbalance problem," Information Sciences, vol. 542, pp. 92-111, 2021/01/04/ 2021, doi: https://doi.org/10.1016/j.ins.2020.07.014.
+
+Condition and terms to use any sources of this project (Codes, Datasets, etc.):
