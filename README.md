@@ -24,4 +24,4 @@ P. Soltanzadeh and M. Hashemzadeh, "RCSMOTE: Range-Controlled synthetic minority
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
-Authors’ Emails: hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
+Author's Email: hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh).
